@@ -1,3 +1,3 @@
 # hello-world
-Mi primer repositorio :)
+Mi primer repositorio :) ;)
 Estoy aprendiendo a usar github :D
